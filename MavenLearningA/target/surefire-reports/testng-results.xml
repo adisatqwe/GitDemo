@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="74" started-at="2022-01-19T15:50:09 IST" finished-at="2022-01-19T15:50:09 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="74" started-at="2022-01-19T15:50:09 IST" finished-at="2022-01-19T15:50:09 IST">
+      <class name="MavenLearning.MavenLearningA.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAUtomation()[pri:0, instance:MavenLearning.MavenLearningA.SeleniumTest@6ebc05a6]" name="BrowserAUtomation" duration-ms="9" started-at="2022-01-19T15:50:09 IST" finished-at="2022-01-19T15:50:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAUtomation -->
+        <test-method status="PASS" signature="elementsUi()[pri:0, instance:MavenLearning.MavenLearningA.SeleniumTest@6ebc05a6]" name="elementsUi" duration-ms="1" started-at="2022-01-19T15:50:09 IST" finished-at="2022-01-19T15:50:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUi -->
+      </class> <!-- MavenLearning.MavenLearningA.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
